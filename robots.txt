@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timsallservice.se/sitemap.xml

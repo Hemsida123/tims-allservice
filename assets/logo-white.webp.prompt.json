@@ -1,0 +1,24 @@
+{
+  "file": "assets/logo-white.webp",
+  "source_url": "https://timsallservice.se/wp-content/uploads/sites/40/2025/01/SALMON-LOGOVIT.png",
+  "source_page": "https://timsallservice.se/",
+  "original_file": "work/tims-source/assets/logo-white.png",
+  "original_dimensions": [
+    500,
+    198
+  ],
+  "dimensions": [
+    488,
+    41
+  ],
+  "bytes": 2290,
+  "description": "Tims Allservice original white wordmark, transparent padding removed.",
+  "provenance": "Existing Tims Allservice brand asset.",
+  "generated": false,
+  "processing": "Transparent padding cropped from [6,83,494,124], lossless WebP conversion.",
+  "prompt": null,
+  "generator": null,
+  "source_type": "existing_brand_asset",
+  "instructions": "No AI generation or creative editing. Mechanically prepared existing website asset."
+}
+

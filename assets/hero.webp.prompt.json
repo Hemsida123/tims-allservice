@@ -1,0 +1,24 @@
+{
+  "file": "assets/hero.webp",
+  "source_url": "https://timsallservice.se/wp-content/uploads/sites/40/2025/03/AdobeStock_367351493.webp",
+  "source_page": "https://timsallservice.se/",
+  "original_file": "work/tims-source/assets/service-367351493.webp",
+  "original_dimensions": [
+    1300,
+    938
+  ],
+  "dimensions": [
+    1300,
+    938
+  ],
+  "bytes": 109032,
+  "description": "Warm evening photograph of a person mowing a green lawn; existing Adobe Stock service illustration.",
+  "provenance": "Existing stock photograph served by the live Tims Allservice website, AdobeStock filename; not evidence of a completed client project.",
+  "generated": false,
+  "processing": "Original WebP copied byte-for-byte.",
+  "prompt": null,
+  "generator": null,
+  "source_type": "existing_site_stock_photo",
+  "instructions": "No AI generation or creative editing. Mechanically prepared existing website asset."
+}
+

@@ -1,0 +1,24 @@
+{
+  "file": "assets/garden.webp",
+  "source_url": "https://timsallservice.se/wp-content/uploads/sites/40/2025/03/AdobeStock_33663985.webp",
+  "source_page": "https://timsallservice.se/",
+  "original_file": "work/tims-source/assets/service-33663985.webp",
+  "original_dimensions": [
+    2048,
+    1365
+  ],
+  "dimensions": [
+    1100,
+    733
+  ],
+  "bytes": 157702,
+  "description": "Wheelbarrow, gardening tools and lush planted garden; existing Adobe Stock service illustration.",
+  "provenance": "Existing stock photograph served by the live Tims Allservice website, AdobeStock filename; not evidence of a completed client project.",
+  "generated": false,
+  "processing": "Aspect-ratio-preserving resize and WebP compression, quality 50.",
+  "prompt": null,
+  "generator": null,
+  "source_type": "existing_site_stock_photo",
+  "instructions": "No AI generation or creative editing. Mechanically prepared existing website asset."
+}
+

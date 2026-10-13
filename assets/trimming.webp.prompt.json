@@ -1,0 +1,24 @@
+{
+  "file": "assets/trimming.webp",
+  "source_url": "https://timsallservice.se/wp-content/uploads/sites/40/2025/03/AdobeStock_1062941705.webp",
+  "source_page": "https://timsallservice.se/",
+  "original_file": "work/tims-source/assets/service-1062941705.webp",
+  "original_dimensions": [
+    1400,
+    788
+  ],
+  "dimensions": [
+    1100,
+    619
+  ],
+  "bytes": 147388,
+  "description": "Garden worker using a grass trimmer; existing Adobe Stock service illustration.",
+  "provenance": "Existing stock photograph served by the live Tims Allservice website, AdobeStock filename; not evidence of a completed client project.",
+  "generated": false,
+  "processing": "Aspect-ratio-preserving resize and WebP compression, quality 78.",
+  "prompt": null,
+  "generator": null,
+  "source_type": "existing_site_stock_photo",
+  "instructions": "No AI generation or creative editing. Mechanically prepared existing website asset."
+}
+
